@@ -1,0 +1,8 @@
+codeOwners:
+  - 0x16BA35fEA3482E6072f4e026dBD2B566A6cc4867
+
+  # 添加更多的贡献者地址
+
+quorum: 3  # 最低投票人数要求
+
+version: 1  # 宪法当前版本号
